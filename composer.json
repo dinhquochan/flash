@@ -1,5 +1,5 @@
 {
-    "name": "laracasts/flash",
+    "name": "dinhquochan/flash",
     "description": "Easy flash notifications",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5.0"
+        "illuminate/support": "^6"
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
